@@ -1,2 +1,5 @@
 src/.structurizr
 .DS_Store
+out/
+diagrams/
+src/workspace.json
